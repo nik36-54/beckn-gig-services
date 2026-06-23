@@ -1,0 +1,7 @@
+node_modules/
+data/keys/
+data/workers-runtime.json
+data/public-keys.json
+data/seeker-public-keys.json
+*.log
+.DS_Store

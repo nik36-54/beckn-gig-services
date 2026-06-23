@@ -1,0 +1,10 @@
+{
+  "participants": [
+    {
+      "subscriber_id": "bpp-gigworkers-network",
+      "type": "BPP",
+      "base_url": "http://localhost:4002",
+      "categories": ["electrician", "plumber", "delivery", "domestic_help", "painter", "carpenter", "mechanic", "mason"]
+    }
+  ]
+}

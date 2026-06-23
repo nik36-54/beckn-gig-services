@@ -1,0 +1,24 @@
+{
+  "name": "beckn-gig-network",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Simplified Beckn/ONDC-style decentralized reputation network for gig workers",
+  "workspaces": [
+    "packages/*",
+    "services/*"
+  ],
+  "scripts": {
+    "setup:keys": "node scripts/generate-keys.js",
+    "setup:seed": "node scripts/seed-data.js",
+    "setup": "npm run setup:keys && npm run setup:seed",
+    "dev": "concurrently -n registry,gateway,bpp,bap -c blue,green,yellow,magenta \"npm:dev:registry\" \"npm:dev:gateway\" \"npm:dev:bpp\" \"npm:dev:bap\"",
+    "dev:registry": "npm run dev --workspace=registry",
+    "dev:gateway": "npm run dev --workspace=gateway",
+    "dev:bpp": "npm run dev --workspace=bpp-worker-node",
+    "dev:bap": "npm run dev --workspace=bap-client",
+    "test": "node --test tests/*.test.js"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

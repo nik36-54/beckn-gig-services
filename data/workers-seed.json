@@ -1,0 +1,20 @@
+[
+  { "id": "worker_001", "name": "Ramesh Yadav", "category": "electrician", "city": "Patna", "skills": ["wiring", "fan installation", "fault diagnosis"], "experience_years": 6, "phone": "98XXXXXX01", "base_price_per_hour": 200 },
+  { "id": "worker_002", "name": "Suresh Kumar", "category": "electrician", "city": "Delhi", "skills": ["wiring", "inverter setup"], "experience_years": 9, "phone": "98XXXXXX02", "base_price_per_hour": 280 },
+  { "id": "worker_003", "name": "Anita Devi", "category": "domestic_help", "city": "Patna", "skills": ["cooking", "cleaning", "elder care"], "experience_years": 4, "phone": "98XXXXXX03", "base_price_per_hour": 120 },
+  { "id": "worker_004", "name": "Manoj Singh", "category": "plumber", "city": "Lucknow", "skills": ["pipe fitting", "leak repair"], "experience_years": 7, "phone": "98XXXXXX04", "base_price_per_hour": 220 },
+  { "id": "worker_005", "name": "Priya Sharma", "category": "domestic_help", "city": "Mumbai", "skills": ["cooking", "childcare"], "experience_years": 5, "phone": "98XXXXXX05", "base_price_per_hour": 150 },
+  { "id": "worker_006", "name": "Vikas Gupta", "category": "delivery", "city": "Bengaluru", "skills": ["two-wheeler delivery", "cold-chain handling"], "experience_years": 2, "phone": "98XXXXXX06", "base_price_per_hour": 100 },
+  { "id": "worker_007", "name": "Sunita Kumari", "category": "domestic_help", "city": "Patna", "skills": ["cleaning", "laundry"], "experience_years": 3, "phone": "98XXXXXX07", "base_price_per_hour": 110 },
+  { "id": "worker_008", "name": "Ajay Verma", "category": "carpenter", "city": "Pune", "skills": ["furniture repair", "modular fitting"], "experience_years": 10, "phone": "98XXXXXX08", "base_price_per_hour": 260 },
+  { "id": "worker_009", "name": "Rakesh Mishra", "category": "electrician", "city": "Patna", "skills": ["wiring", "AC point installation"], "experience_years": 3, "phone": "98XXXXXX09", "base_price_per_hour": 180 },
+  { "id": "worker_010", "name": "Geeta Devi", "category": "domestic_help", "city": "Kolkata", "skills": ["cooking", "cleaning"], "experience_years": 8, "phone": "98XXXXXX10", "base_price_per_hour": 130 },
+  { "id": "worker_011", "name": "Sanjay Paswan", "category": "delivery", "city": "Patna", "skills": ["two-wheeler delivery"], "experience_years": 1, "phone": "98XXXXXX11", "base_price_per_hour": 90 },
+  { "id": "worker_012", "name": "Mohammed Aslam", "category": "mechanic", "city": "Hyderabad", "skills": ["two-wheeler repair", "engine tuning"], "experience_years": 12, "phone": "98XXXXXX12", "base_price_per_hour": 250 },
+  { "id": "worker_013", "name": "Pooja Rani", "category": "domestic_help", "city": "Delhi", "skills": ["elder care", "cleaning"], "experience_years": 6, "phone": "98XXXXXX13", "base_price_per_hour": 140 },
+  { "id": "worker_014", "name": "Dinesh Thakur", "category": "painter", "city": "Patna", "skills": ["wall painting", "texture work"], "experience_years": 5, "phone": "98XXXXXX14", "base_price_per_hour": 200 },
+  { "id": "worker_015", "name": "Kiran Bala", "category": "domestic_help", "city": "Pune", "skills": ["cooking", "babysitting"], "experience_years": 2, "phone": "98XXXXXX15", "base_price_per_hour": 125 },
+  { "id": "worker_016", "name": "Vijay Choudhary", "category": "mason", "city": "Patna", "skills": ["brickwork", "plastering"], "experience_years": 11, "phone": "98XXXXXX16", "base_price_per_hour": 230 },
+  { "id": "worker_017", "name": "Amit Raj", "category": "plumber", "city": "Patna", "skills": ["pipe fitting", "bathroom fitting"], "experience_years": 4, "phone": "98XXXXXX17", "base_price_per_hour": 190 },
+  { "id": "worker_018", "name": "Neha Singh", "category": "delivery", "city": "Mumbai", "skills": ["four-wheeler delivery", "route planning"], "experience_years": 3, "phone": "98XXXXXX18", "base_price_per_hour": 110 }
+]
